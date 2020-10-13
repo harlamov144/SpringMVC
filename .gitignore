@@ -1,0 +1,10 @@
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
+/.idea/workspace.xml
+/comjavainuse.iml
+/target/com.javainuse/WEB-INF/classes
+/target/com.javainuse/WEB-INF/lib
+/target
