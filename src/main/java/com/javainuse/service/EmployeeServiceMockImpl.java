@@ -25,4 +25,8 @@ public class EmployeeServiceMockImpl implements EmployeeService {
     public List<Employee> getAllEmployees() {
         return new ArrayList<Employee>(testEmployees);
     }
+
+    public void addNewEmployee(Employee employee) {
+        testEmployees.add(employee);
+    }
 }

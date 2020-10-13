@@ -8,3 +8,4 @@
 /target/com.javainuse/WEB-INF/classes
 /target/com.javainuse/WEB-INF/lib
 /target
+/.idea/vcs.xml
